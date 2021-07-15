@@ -77,7 +77,6 @@ class _MyHomePageState extends State<MyHomePage> {
             padding: EdgeInsets.only(left: 50, right: 50, top: 20, bottom: 20),
             child: Row(
               mainAxisAlignment: MainAxisAlignment.spaceBetween,
-              crossAxisAlignment: CrossAxisAlignment.baseline,
               children: [
                 IconAndText(
                   buttonTapped: () {
