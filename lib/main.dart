@@ -109,7 +109,7 @@ class _MyHomePageState extends State<MyHomePage> {
                 IconAndText(
                   buttonTapped: () {
                     Fluttertoast.showToast(
-                        msg: "This is share button",
+                        msg: "This is share button!!!",
                         toastLength: Toast.LENGTH_SHORT,
                         gravity: ToastGravity.BOTTOM,
                         timeInSecForIosWeb: 1,
